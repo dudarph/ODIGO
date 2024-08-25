@@ -1,3 +1,5 @@
-# ODIGO
+Первый тренировочный проект.
 
-My first true web-page
+Stack: HTML, CSS, Javascript
+
+dudarph.github.io/ODIGO/
